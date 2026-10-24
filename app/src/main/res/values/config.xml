@@ -1,0 +1,11 @@
+<resources>
+    <!-- Dock slots = columns (4-7). Dock order = order below; uninstalled apps are skipped. -->
+    <integer name="columns">4</integer>
+    <string name="live_tv_package">com.tcl.tv</string>
+    <string-array name="dock_apps">
+        <item>com.google.android.youtube.tv</item>
+        <item>ar.tvplayer.tv</item>
+        <item>net.mbc.shahidTV</item>
+        <item>com.tcl.tv</item>
+    </string-array>
+</resources>
